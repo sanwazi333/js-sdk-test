@@ -1,0 +1,18 @@
+{
+    "name": "js-sdk-test",
+    "version": "1.0.1",
+    "description": "",
+    "main": "src/HwMiniUtilTest.js",
+    "scripts": {
+        "test": "echo exit"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sanwazi333/js-sdk-test.git"
+      },
+      "bugs": "https://github.com/sanwazi333/js-sdk-test/issues",
+    "keywords": [],
+    "author": "chujingbo",
+    "license": "ISC",
+    "type": "module"
+}
